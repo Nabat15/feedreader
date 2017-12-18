@@ -1,0 +1,18 @@
+{
+    "name": "kouosl/sample",
+    "description": "Yii2 KouOsl sample Module Integration",
+    "type": "yii2-extension",
+    "keywords": ["yii2", "yii 2", "samples", "sample", "module", "modules"],
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "İbrahim Aşık",
+            "email": "info@kouosl.com.tr"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "kouosl\\sample\\": ""
+        }
+    }
+}
