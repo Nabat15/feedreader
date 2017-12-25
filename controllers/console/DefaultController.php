@@ -1,6 +1,6 @@
 <?php
 
-namespace kouosl\sample\controllers\console;
+namespace kouosl\feedreader\controllers\console;
 
 
 /**
